@@ -1,0 +1,6 @@
+Herramienta de edición: ImageGen integrada.
+Referencias: cinco fotografías proporcionadas por el cliente. Foto de Shantal princesa conservada como referencia original en shantal.webp.
+Ediciones: Gianluigi solo y tres fotos de hermanos. Se pidió conservar rostros, edades, expresiones, gafas, vestuario, posturas y accesorios; reemplazar solo fondo con jardín palaciego de arcos marfil, rosas tenues, follaje menta y luz champán, en armonía con foto de Shantal. No se solicitaron disfraces ni cambios de identidad.
+Assets finales: gianluigi.webp, hermanos-medallas.webp, hermanos-rosa.webp, hermanos-recuerdo.webp.
+Flores: guirnalda acuarela de rosas marfil y rosa suave, eucalipto salvia/menta y filigrana champán, fondo transparente, sin texto. Asset flores-reales.webp.
+Tipografías: Cormorant Garamond cursiva (Royal), Nunito y caligrafía local; licencias incluidas.

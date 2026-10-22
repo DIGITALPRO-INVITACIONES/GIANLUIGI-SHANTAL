@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//Bautizo Gianluigi y Shantal//ES
+BEGIN:VEVENT
+UID:gianluigi-shantal-ceremonia-20261113@digitalpro
+DTSTAMP:20261021T120000Z
+DTSTART:20261113T210000Z
+SUMMARY:Bautizo de Gianluigi y Shantal
+LOCATION:Templo Nuestra Señora de la Merced
+DESCRIPTION:Ceremonia de bautizo a las 17:00.
+URL:https://maps.app.goo.gl/LRQorTtHfH4qn8827
+END:VEVENT
+BEGIN:VEVENT
+UID:gianluigi-shantal-recepcion-20261113@digitalpro
+DTSTAMP:20261021T120000Z
+DTSTART:20261113T220000Z
+SUMMARY:Celebración del bautizo de Gianluigi y Shantal
+LOCATION:Salón de Eventos Luz de Luna - Av. Dorminig
+DESCRIPTION:18:00 recepción de invitados. 19:00 acto central. 19:30 servic
+ io de cena. 22:00 torta y velitas.
+URL:https://maps.app.goo.gl/ZT5edQ9smJ8b8srF9
+END:VEVENT
+END:VCALENDAR
